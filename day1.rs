@@ -24,7 +24,7 @@ fn main() {
 //test to see loop works
     'outer: for number1 in num.iter(){
         for number2 in num.iter(){
-            println!("no1 is {} and no2 is: {}",number1,number2);
+            //println!("no1 is {} and no2 is: {}",number1,number2);
 
 //grab no1 and no2 and have it as a sum of the total
             sum = number1 + number2;
