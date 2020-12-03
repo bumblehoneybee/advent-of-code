@@ -1,5 +1,5 @@
 /target
-.toml
-.lock
-.exe
-.pbd
+*.toml
+*.lock
+*.exe
+*.pbd
