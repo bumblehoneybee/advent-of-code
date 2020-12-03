@@ -2,4 +2,4 @@
 *.toml
 *.lock
 *.exe
-*.pbd
+*.pdb
